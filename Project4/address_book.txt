@@ -1,0 +1,24 @@
+Full Name: Петренко Марина Миколаївна
+Home Address: вул. Гагаріна 15
+Work Address: вул. Винниченка 8, Львів
+Phone Number: +380997654321
+Additional Info: Викладач університету
+----------------------------------------
+Full Name: Сидоренко Олег Вікторович
+Home Address: просп. Перемоги 5, Харків
+Work Address: вул. Сумська 20, Харків
+Phone Number: +380931234567
+Additional Info: Адвокат
+----------------------------------------
+Full Name: Станенко Микола Сергійович
+Home Address: Вокзальна 19.1
+Work Address: Шосейна 3-A
+Phone Number: 6879403032449
+Additional Info: WIN API 
+----------------------------------------
+Full Name: Шевченко Тарас Григорович
+Home Address: Шевченко 32
+Work Address: Самарська 56
+Phone Number: 2343324543543
+Additional Info: КОБЗАР
+----------------------------------------
